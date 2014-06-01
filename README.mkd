@@ -1,0 +1,3 @@
+# Toy Haskell JSON Parser
+
+A toy parser for me to play with Haskell.
